@@ -24,4 +24,4 @@ Click On The Three Dots On Top Right Corner, Then Extensions, After That Click O
 
 # Credits
 
-This Repository Is Simply A Port Of The Firefox Extension 
+This Repository Is Simply A Port Of The Firefox Extension <a href="https://github.com/mozilla/video-bg-play">Video Background Play Fix</a>
