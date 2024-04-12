@@ -7,9 +7,9 @@ This Extension Allows Android Chrome Users To Play Youtube Videos On The Backgro
 # Examples
 <div class="row">
   <div class="column">
-    <img src="https://github.com/alkisqwe/Youtube-Background/assets/73914940/34d23210-7cfd-4c67-b4ab-a49b6e5f8ee6" alt="Snow" style="width:400px">
+    <img src="https://github.com/alkisqwe/Youtube-Background/assets/73914940/34d23210-7cfd-4c67-b4ab-a49b6e5f8ee6" alt="Snow" style="width:200px">
   </div>
   <div class="column">
-    <img src="https://github.com/alkisqwe/Youtube-Background/assets/73914940/28fbf9fc-9608-48f1-be9c-2a9d42a1679c" alt="Forest" style="width:400px">
+    <img src="https://github.com/alkisqwe/Youtube-Background/assets/73914940/28fbf9fc-9608-48f1-be9c-2a9d42a1679c" alt="Forest" style="width:200px">
   </div>
 </div>
