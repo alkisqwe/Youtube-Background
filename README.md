@@ -1,8 +1,8 @@
-# Youtube-Background
+# YouTube-Background
 <p align="center">
   <img width="460" height="300" src="https://github.com/alkisqwe/Youtube-Background/assets/73914940/737db5c7-806f-44ef-b315-90da95f4b2f9">
 </p>
-This Extension Allows Android Chrome Users To Play Youtube Videos On The Background
+This Extension Allows Android Chrome Users To Play YouTube Videos On The Background
 
 # Examples
 <figure class="half" style="display:flex">
@@ -20,7 +20,7 @@ In Order To Install This Extension You Must Have A Chrome Version That Supports 
 
 # How To Install On Kiwi Browser
 
-Click On The Three Dots On Top Right Corner, Then Extensions, After That Click On +(from .zip/crx/.user.js) and select Youtube-Background.crx, Then Lastly Toggle Youtube background Extension On And Click Ok On The Popup Window
+Click On The Three Dots On Top Right Corner, Then Extensions, After That Click On +(from .zip/crx/.user.js) and select Youtube-Background.crx, Then Lastly Toggle YouTube background Extension On And Click Ok On The Popup Window
 
 # Credits
 
