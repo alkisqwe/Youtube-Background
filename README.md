@@ -20,7 +20,7 @@ In Order To Install This Extension You Must Have A Chrome Version That Supports 
 
 # How To Install On Kiwi Browser
 
-Click On The Three Dots On Top Right Corner, Then Extensions, After That Click On +(from .zip/crx/.user.js) and select Youtube-Background.crx, Then Lastly Toggle YouTube background Extension On And Click Ok On The Popup Window
+Click On The Three Dots On Top Right Corner, Then Extensions, After That Enable Developer Mode On The Top Right Corner, Then Click On +(from .zip/crx/.user.js) and select Youtube-Background.crx, Then Lastly Toggle YouTube background Extension On And Click Ok On The Popup Window
 
 # Credits
 
