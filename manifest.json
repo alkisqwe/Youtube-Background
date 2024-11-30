@@ -16,7 +16,8 @@
       "js": ["content.js"],
       "matches":
       [
-        "https://m.youtube.com/*"
+        "https://m.youtube.com/*",
+        "https://music.youtube.com/*"
       ]
     }
   ]
