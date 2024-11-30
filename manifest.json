@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Youtube Background",
-  "version": "1.0",
+  "version": "2.0",
   "description": "Youtube Background Player For Android Chrome Version",
 
   "icons": {
@@ -16,7 +16,8 @@
       "js": ["content.js"],
       "matches":
       [
-        "https://m.youtube.com/*"
+        "*://*.youtube.com/*",
+        "*://*.youtube-nocookie.com/*"
       ]
     }
   ]
