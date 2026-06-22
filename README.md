@@ -4,6 +4,8 @@
 </p>
 This Extension Allows Android Chrome Users To Play YouTube Videos/Music On The Background
 
+**Fix: Manifest V3 is now supported.**
+
 # Examples
 <figure class="half" style="display:flex">
     <img style="width:400px" src="https://github.com/alkisqwe/Youtube-Background/assets/73914940/34d23210-7cfd-4c67-b4ab-a49b6e5f8ee6">
